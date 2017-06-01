@@ -1,0 +1,8 @@
+The code has all three parts ie minmax, aplha beta pruning and depth limited search.
+The code is segmented into functions.
+The functions are:
+maxconnect4() 		: the function as asked for in the code that decides which mode
+minmax()      		: the functoin that calculates the minmax value
+scoreOfGame   		: prints the score of the board for each player
+printBoard		: print the current state of the board.
+checkBoardPlayable	: check if the board has playable moves
