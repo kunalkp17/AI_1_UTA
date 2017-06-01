@@ -1,0 +1,10 @@
+
+Standard Java implementation.
+
+No special requirements 
+
+Segmentation :
+	Bnet class : has main function and does the calcuation of the probabilty . infers the input
+			given by cmd
+
+Node class :	it keeps the nodes and also keeps track of parent and children node. also which state they are in; parent intermediate or 
